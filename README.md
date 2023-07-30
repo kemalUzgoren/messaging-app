@@ -1,7 +1,5 @@
 # server-client-messaging-app
-Server-Client Messaging using TCP/IP
-
-# Simple Server-Client Messaging App
+Server-Client Messaging using TCP/IP.
 
 This project consists of a simple Server-Client messaging application developed using the C programming language. The application allows the transmission of text-based messages between a server and a client running on the same network.
 
